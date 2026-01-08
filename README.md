@@ -126,12 +126,6 @@ This application is optimized for hackathon presentations:
 - Comprehensive feature set
 - Easy to extend and customize
 
-## 📝 License
-
-© 2024 EcoSphere AI. All rights reserved.
-
-*AI insights are for decision support only. Always verify with onsite engineering teams.*
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -139,7 +133,3 @@ This application is optimized for hackathon presentations:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-## 📞 Support
-
-For questions or support, please contact the development team.
